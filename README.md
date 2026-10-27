@@ -24,8 +24,8 @@ The course is scheduled to meet as follows. Times are local to the university.
 
 | Meeting | Day and time | Frequency | Location / schedule |
 |---|---|---|---|
-| First meeting | Saturday, 18:00–20:00 | Every week | Classroom 0; odd-week schedule |
-| Second meeting | Monday, 16:00–18:00 | Every other week | Classroom 0; even-week schedule |
+| First meeting | Saturday, 18:00–20:00 | Every week | Classroom 4 |
+| Second meeting | Monday, 16:00–18:00 | Every other week | Classroom 11; even-week schedule |
 
 ## Course Overview
 
